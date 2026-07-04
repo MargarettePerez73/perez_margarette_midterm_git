@@ -5,4 +5,3 @@ A simple student profile webpage for IT 332 Integrative Programming midterm labo
 - Student: Margarette Perez
 - Course: IT 332
 - Section: 3303
-
