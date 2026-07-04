@@ -19,14 +19,14 @@ main {
 h1 {
   font-size: 2.2rem;
   margin-bottom: 12px;
-  color: #1d4ed8;
+  color: #0051d3;
   letter-spacing: 0.5px;
 }
 
 h2 {
   font-size: 1.25rem;
   margin-top: 24px;
-  color: #2563eb;
+  color: #0051d3;
 }
 
 p {
@@ -58,5 +58,5 @@ li {
 
 section:nth-of-type(2) {
   background: linear-gradient(135deg, #eef6ff, #e0f2fe);
-  border-left-color: #3b82f6;
+  border-left-color: #0051d3;
 }
